@@ -1,3 +1,5 @@
+We're kicking off our first project together Design And Dev ! My partner, who's an awesome UX/UI designer, is handling all the design work in Figma. Meanwhile, I'm diving into the code, using JavaScript with React and Material UI to bring her designs to life. It's a fun personal project where we get to combine our skills and create something cool.here is the link to the figma:
+First test Proyect: Web D&D https://www.figma.com/design/Y0cjmqzFnM6KxUWLteFoQe/Prueba?node-id=1-2&t=16qZcOdvu9toqB8k-1
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
