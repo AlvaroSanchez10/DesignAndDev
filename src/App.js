@@ -1,24 +1,26 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Header from './components/header/Header';
+import MainSection from './components/sections/MainSection';
+import OurWork from './components/sections/OurWork';
+import Experiences from './components/sections/Experiences';
+import Services from './components/sections/Services';
+import { Box } from '@mui/material';
+import WeCanHelpYou from './components/sections/WeCanHelpYou';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Box className="app-container">
+      <Header />
+      <MainSection />
+      <OurWork />
+      <Experiences />
+      <Services />
+      <WeCanHelpYou/>
+      <Footer/>
+      {/* Agrega otras secciones aquí */}
+    </Box>
   );
 }
 

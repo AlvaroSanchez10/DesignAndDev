@@ -1,0 +1,9 @@
+.header-background {
+    background-image: url('/public/BackgroundHeader.png');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding-left: 140px;
+    padding-right: 140px;
+    background-color: transparent; /* Asegura que el fondo del header sea transparente */
+    }
