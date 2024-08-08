@@ -28,6 +28,7 @@
             <Button
                 sx={{
                 marginLeft: 2,
+                marginRight: 18,
                 backgroundColor: '#ffffff',
                 color: '#000000',
                 boxShadow: '2px 2px 5px rgba(0, 0, 0, 0.1)',
