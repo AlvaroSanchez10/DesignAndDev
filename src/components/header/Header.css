@@ -7,3 +7,6 @@
     padding-right: 140px;
     background-color: transparent; /* Asegura que el fondo del header sea transparente */
     }
+    html {
+        scroll-behavior: smooth;
+    }
