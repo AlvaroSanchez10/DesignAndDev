@@ -4,7 +4,7 @@
 
     const MainSection = () => {
     return (
-        <Box className="main-section">
+        <Box className="main-section" id="mainsection">
         <Typography variant="h1" sx={{ mb: 2, fontWeight: 'bold' }}>
             We Create Your <br/>
             Custom Website.
