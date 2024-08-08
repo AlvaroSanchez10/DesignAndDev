@@ -5,7 +5,7 @@
 
     const Services = () => {
     return (
-        <Box sx={{ padding: '90px 140px' }}>
+        <Box id="services" sx={{ padding: '90px 140px' }}>
         <Container>
             <Typography variant="h2" sx={{ mb: 5, mr:140 }}>
             Services
